@@ -1,0 +1,24 @@
+body {
+    background-color: #eb34cf
+}
+
+.container {
+    border: solid 1px #0c873b;
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+    background-color: #db162a;
+}
+
+.input-box{
+    display: inline-block;
+}
+
+.calculate-btn{
+    display: block;
+    margin:20px auto;
+}
+
+#score-text{
+    visibility: hidden;
+}
